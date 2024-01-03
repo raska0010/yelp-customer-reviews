@@ -162,3 +162,6 @@ cython_debug/
 # Yelp dataset and tables created after data cleaning
 /yelp_dataset
 /tables
+
+# Final presentation of the original project
+/presentation
