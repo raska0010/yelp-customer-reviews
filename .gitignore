@@ -159,9 +159,10 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# Yelp dataset and tables created after data cleaning
+# Yelp dataset, tables created after data cleaning, additional data
 /yelp_dataset
 /tables
+/food_labels
 
 # Final presentation of the original project
 /presentation
