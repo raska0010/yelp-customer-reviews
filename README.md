@@ -4,4 +4,4 @@ In this project, I will test whether different predictors (business attributes, 
 
 The tools I will use are: Python, pandas, statsmodels, sci-kit learn and Matplotlib.
 
-The model I will use is ordinal regression.
+The estimator I will use is ordinal regression.
